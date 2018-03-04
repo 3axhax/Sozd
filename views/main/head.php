@@ -15,9 +15,9 @@
                         <li>
                             <a href="/task22"><span class="glyphicon glyphicon-check"> Задание №2.2</a>
                         </li>
-                        <!--<li>
-                            <a href="/task23"><span class="glyphicon glyphicon-list-alt"> Задание №2.3</a>
-                        </li>-->
+                        <li>
+                            <a href="/task23"><span class="glyphicon glyphicon-list"> Задание №2.3</a>
+                        </li>
                         <li>
                             <a href="/task24"><span class="glyphicon glyphicon-arrow-left"> Задание №2.4</a>
                         </li>
