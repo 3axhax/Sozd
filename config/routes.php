@@ -1,5 +1,6 @@
 <?php
 return array(
+    'task21/show' => 'task21/show',
     'task21' => 'task21/index',
     'task22' => 'task22/index',
     'task24' => 'task24/index',
